@@ -1,6 +1,0 @@
-[submodule "backend_whammy"]
-	path = backend_whammy
-	url = https://github.com/mrvilla/backend_whammy.git
-[submodule "frontend_whammy"]
-	path = frontend_whammy
-	url = https://github.com/mrvilla/frontend_whammy.git
