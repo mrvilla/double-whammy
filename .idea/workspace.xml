@@ -45,6 +45,21 @@
       <recent name="$PROJECT_DIR$/backend-whammy" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="double-whammy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="double-whammy" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -65,6 +80,7 @@
       <workItem from="1725643143097" duration="1837000" />
       <workItem from="1725645322126" duration="2373000" />
       <workItem from="1725656180283" duration="745000" />
+      <workItem from="1725656930598" duration="296000" />
     </task>
     <servers />
   </component>
